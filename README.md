@@ -3,12 +3,7 @@
 <div align="center">
 
 ```
-  ____                                    _          
- / ___|  __ ___   _____  _ ____   _____ (_) ___ ___ 
- \___ \ / _` \ \ / / _ \| '__\ \ / / _ \| |/ __/ _ \
-  ___) | (_| |\ V / (_) | |   \ V / (_) | | (_|  __/
- |____/ \__,_| \_/ \___/|_|    \_/ \___/|_|\___\___|
-```
+
 
 **Next-Generation Multimodal Voice Shopping & Kitchen Inventory Companion**
 
