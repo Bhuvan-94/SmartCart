@@ -1,0 +1,12 @@
+{
+  "name": "SmartCart - Voice Command Shopping Assistant",
+  "description": "SmartCart interactive Voice Shopping Assistant featuring real-time bidirectional Gemini Live API voice conversation, continuous fast speech command processing, visual soundwave visualizer, smart substitutions, auto-categorization, and local persistence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
+
